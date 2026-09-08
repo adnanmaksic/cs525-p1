@@ -1,8 +1,8 @@
-# Project X
+# Project 1
 
-- Name: John Doe
-- Email: johndoe@u.boisestate.edu
-- Class: CS123-001
+- Name: Adnan Maksic
+- Email: adnanmaksic@u.boisestate.edu
+- Class: CS525-001
 
 ## Known Bugs or Issues
 
